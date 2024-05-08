@@ -1,0 +1,25 @@
+[{
+  "_id": "201",
+  "nombre": "Luis Pérez",
+  "experiencia": 10
+},
+{
+  "_id": "202",
+  "nombre": "Mario Gómez",
+  "experiencia": 12
+},
+{
+  "_id": "203",
+  "nombre": "Carlos Andrade",
+  "experiencia": 8
+},
+{
+  "_id": "204",
+  "nombre": "Jorge Montaño",
+  "experiencia": 9
+},
+{
+  "_id": "205",
+  "nombre": "Roberto Vásquez",
+  "experiencia": 11
+}]

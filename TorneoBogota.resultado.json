@@ -1,0 +1,30 @@
+[{
+  "_id": "401",
+  "goles_local": 2,
+  "goles_visitante": 1,
+  "ganador": "101"
+},
+{
+  "_id": "402",
+  "goles_local": 0,
+  "goles_visitante": 0,
+  "ganador": null
+},
+{
+  "_id": "403",
+  "goles_local": 3,
+  "goles_visitante": 2,
+  "ganador": "101"
+},
+{
+  "_id": "404",
+  "goles_local": 1,
+  "goles_visitante": 4,
+  "ganador": "103"
+},
+{
+  "_id": "405",
+  "goles_local": 2,
+  "goles_visitante": 2,
+  "ganador": null
+}]

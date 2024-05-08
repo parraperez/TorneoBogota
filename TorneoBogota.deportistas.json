@@ -1,0 +1,40 @@
+[{
+  "_id": "1",
+  "nombre": "Carlos Rojas",
+  "edad": 25,
+  "nacionalidad": "Colombiana",
+  "posición": "Delantero",
+  "equipo_id": "101"
+},
+{
+  "_id": "2",
+  "nombre": "Juan Martínez",
+  "edad": 28,
+  "nacionalidad": "Colombiana",
+  "posición": "Defensa",
+  "equipo_id": "101"
+},
+{
+  "_id": "3",
+  "nombre": "Sergio Llano",
+  "edad": 23,
+  "nacionalidad": "Colombiana",
+  "posición": "Mediocampista",
+  "equipo_id": "102"
+},
+{
+  "_id": "4",
+  "nombre": "Miguel Torres",
+  "edad": 22,
+  "nacionalidad": "Colombiana",
+  "posición": "Portero",
+  "equipo_id": "103"
+},
+{
+  "_id": "5",
+  "nombre": "Andrés Mejía",
+  "edad": 26,
+  "nacionalidad": "Colombiana",
+  "posición": "Delantero",
+  "equipo_id": "104"
+}]
